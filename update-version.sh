@@ -1,3 +1,4 @@
+#!/bin/bash
 
 #pull from github repository to ensure the local directory is up to date
 git pull
